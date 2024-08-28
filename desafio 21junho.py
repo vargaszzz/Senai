@@ -17,5 +17,5 @@ def main():
 
     matriz = []
     for i in range(n):
-    print("Digite os valores da matriz:")
+        print("Digite os valores da matriz:")
 
